@@ -29,7 +29,13 @@ Most resources are openly available.
 
 -  [entscheidsuche.ch](https://entscheidsuche.ch/)
 
+## Netherlands
+
+- [rechtspraak.nl](https://www.rechtspraak.nl/)
+
 ## Norway
+
+- [rettspraksis.no](https://rettspraksis.no/wiki/Forside)
 
 ## Poland
 
@@ -38,6 +44,10 @@ Most resources are openly available.
 ## Czech
 
 - [Czech Court Decisions Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-3052) [(Paper)](https://arxiv.org/pdf/1910.09513.pdf)
+
+## EU
+
+- [EUR-Lex](https://eur-lex.europa.eu/)
 
 ---
 
