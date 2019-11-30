@@ -24,6 +24,7 @@ Most resources are openly available.
 
 - [OpenJur](https://openjur.de/)
 - [Open Legal Data](https://openlegaldata.io/)
+- [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 
 ## Switzerland
 
