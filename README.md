@@ -46,6 +46,15 @@ Most resources are openly available.
 
 - [Czech Court Decisions Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-3052) [(Paper)](https://arxiv.org/pdf/1910.09513.pdf)
 
+## Finland
+
+- [FinLex](https://www.finlex.fi/en/)
+
+## France
+
+- [Legifrance](https://www.legifrance.gouv.fr/Traductions/en-English)
+
+
 ## EU
 
 - [EUR-Lex](https://eur-lex.europa.eu/)
