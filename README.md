@@ -11,6 +11,7 @@ Most resources are openly available.
 
 - [Caselaw Access Project by Harvard Law School](https://case.law/)
 - [CourtListner](https://courtlistener.com) - Search millions of opinions by case name, topic, or citation. 403 Jurisdictions. Sponsored by the Non-Profit [Free Law Project](https://free.law).
+- [H2O Open Case Book](https://opencasebook.org/)
 
 ## UK
 
@@ -19,6 +20,10 @@ Most resources are openly available.
 ## Canada
 
 - [Canadian Legal Information Institute](https://www.canlii.org/en/)
+
+## Australia
+
+- [Australasian Legal Information Institute](http://www.austlii.edu.au/)
 
 ## Germany
 
