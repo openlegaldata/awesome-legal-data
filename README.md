@@ -70,7 +70,9 @@ Most resources are openly available.
 
 - [Blackstone - A spaCy pipeline and model for NLP on unstructured legal text.](https://github.com/ICLRandD/Blackstone)
 - [Pseudo-anonymization of French legal cases](https://github.com/ELS-RD/anonymisation)
-
+- [Scripts to crawl English legal corpora](https://github.com/iliaschalkidis/LegalCrawler)
+- [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559)
+- [Law-OMNI-BERT-Project](https://github.com/Lukas-Justen/Law-OMNI-BERT-Project)
 
 ## License
 
