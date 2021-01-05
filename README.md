@@ -74,6 +74,10 @@ Most resources are openly available.
 - [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559)
 - [Law-OMNI-BERT-Project](https://github.com/Lukas-Justen/Law-OMNI-BERT-Project)
 
+## Other links
+
+- [Liquid-Legal-Institute/Legal-Text-Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
