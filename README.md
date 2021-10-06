@@ -66,6 +66,10 @@ Most resources are openly available.
 
 ---
 
+## Other datasets
+
+- [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
+
 ## Tools
 
 - [Blackstone - A spaCy pipeline and model for NLP on unstructured legal text.](https://github.com/ICLRandD/Blackstone)
