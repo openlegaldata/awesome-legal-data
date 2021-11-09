@@ -30,10 +30,12 @@ Most resources are openly available.
 - [OpenJur](https://openjur.de/)
 - [Open Legal Data](https://openlegaldata.io/)
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
+- [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
 
 ## Switzerland
 
--  [entscheidsuche.ch](https://entscheidsuche.ch/)
+- [entscheidsuche.ch](https://entscheidsuche.ch/)
+- [Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark](https://arxiv.org/abs/2110.00806)
 
 ## Netherlands
 
@@ -63,6 +65,11 @@ Most resources are openly available.
 ## EU
 
 - [EUR-Lex](https://eur-lex.europa.eu/)
+- [MultiEURLEX - A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer](https://arxiv.org/abs/2109.00904)
+
+## Japan
+
+- [Competition on Legal Information Extraction/Entailment (COLIEE 2020)](https://sites.ualberta.ca/~rabelo/COLIEE2020/)
 
 ---
 
@@ -81,6 +88,7 @@ Most resources are openly available.
 ## Other links
 
 - [Liquid-Legal-Institute/Legal-Text-Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics)
+- [Natural Legal Language Processing Workshop](https://nllpw.org/)
 
 ## License
 
