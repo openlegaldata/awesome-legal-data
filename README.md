@@ -76,6 +76,7 @@ Most resources are openly available.
 ## Other datasets
 
 - [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
+- [PileOfLaw](https://github.com/Breakend/PileOfLaw)
 
 ## Tools
 
