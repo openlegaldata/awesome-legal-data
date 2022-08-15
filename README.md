@@ -66,6 +66,7 @@ Most resources are openly available.
 
 - [EUR-Lex](https://eur-lex.europa.eu/)
 - [MultiEURLEX - A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer](https://arxiv.org/abs/2109.00904)
+- [Mining Legal Arguments in Court Decisions - Data and software (European Court of Human Rights (ECHR))](https://github.com/trusthlt/mining-legal-arguments)
 
 ## Japan
 
