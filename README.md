@@ -31,6 +31,7 @@ Most resources are openly available.
 - [Open Legal Data](https://openlegaldata.io/)
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
+- [gesp: Download all available German court decisions straight from the command line](https://github.com/niklaswais/gesp)
 
 ## Switzerland
 
