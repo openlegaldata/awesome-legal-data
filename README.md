@@ -24,6 +24,7 @@ Most resources are openly available.
 ## Australia
 
 - [Australasian Legal Information Institute](http://www.austlii.edu.au/)
+- [Open Australian Legal Corpus: The First Multijurisdictional Open Corpus of Australian Legislative and Judicial Documents](https://huggingface.co/datasets/umarbutler/open-australian-legal-corpus)
 
 ## Germany
 
