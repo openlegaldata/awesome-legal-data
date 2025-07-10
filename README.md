@@ -63,6 +63,7 @@ Most resources are openly available.
 ## France
 
 - [Legifrance](https://www.legifrance.gouv.fr/Traductions/en-English)
+- [Judilibre](https://www.courdecassation.fr/acces-rapide-judilibre), [Judilibre API](https://www.courdecassation.fr/toutes-les-actualites/2021/10/01/judilibre-les-decisions-judiciaires-en-open-data)
 
 
 ## EU
