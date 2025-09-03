@@ -30,7 +30,7 @@ Most resources are openly available.
 
 ## Europe & European Union
 
-- [EUR-Lex](https://eur-lex.europa.eu/) — Official EU law (treaties, directives, regulations, decisions, OJ). Bulk downloads and **API**. *(Open, API)*
+- [EUR-Lex](https://eur-lex.europa.eu/) — Official EU law (treaties, directives, regulations, decisions, OJ). Bulk downloads and **API**. *(Open, API)* [[HF](https://huggingface.co/datasets/joelniklaus/eurlex_resources)]
 - [CURIA (CJEU)](https://curia.europa.eu/) — Court of Justice & General Court case law (judgments, opinions, orders). *(Open)*
 - [HUDOC (ECHR)](https://hudoc.echr.coe.int/) — European Court of Human Rights judgments, decisions, and summaries. *(Open)*
 - [N-Lex](https://n-lex.europa.eu/) — One-stop portal into each EU Member State’s national legislation databases. *(Open)*
