@@ -213,7 +213,9 @@ Most resources are openly available.
 - [Westlaw Japan](https://go.westlawjapan.com/) / [LexisNexis Japan](https://www.lexisnexis.jp/) — Commercial JP legal research suites. *(Commercial)*
 - [Competition on Legal Information Extraction/Entailment (COLIEE 2020)](https://sites.ualberta.ca/~rabelo/COLIEE2020/)
 
-
+### Russia
+- [https://github.com/irlcode/RusLawOD] - Open Legal Data
+- [IPBD.ru] - Open Legal Data
 ---
 
 ## Brazil
