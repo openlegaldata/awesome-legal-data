@@ -165,7 +165,7 @@ Most resources are openly available.
 - [Justice Laws (Canada)](https://laws-lois.justice.gc.ca/) — Official consolidated federal statutes & regulations. *(Open)*
 - [Supreme Court of Canada Judgments](https://scc-csc.lexum.com/) — Full-text decisions (LexUM). *(Open)*
 - [WestlawNext Canada](https://www.thomsonreuters.ca/en/westlaw.html) / [Lexis Advance Quicklaw](https://www.lexisnexis.ca/en) — Commercial Canadian legal research. *(Commercial)*
-- [A2AJ] (https://a2aj.ca/canadian-legal-data/) - Open Legal Canadian Database
+- [A2AJ] (https://a2aj.ca/) - Open Legal Canadian Database
 
 ### Mexico
 
