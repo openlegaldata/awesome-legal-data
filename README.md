@@ -137,6 +137,9 @@ Most resources are openly available.
 
 ---
 
+### Turkey
+- [https://acikveri.yagiz.dev/] - Open Legal Turkey
+
 ## North America
 
 ### United States
@@ -165,6 +168,7 @@ Most resources are openly available.
 - [Justice Laws (Canada)](https://laws-lois.justice.gc.ca/) — Official consolidated federal statutes & regulations. *(Open)*
 - [Supreme Court of Canada Judgments](https://scc-csc.lexum.com/) — Full-text decisions (LexUM). *(Open)*
 - [WestlawNext Canada](https://www.thomsonreuters.ca/en/westlaw.html) / [Lexis Advance Quicklaw](https://www.lexisnexis.ca/en) — Commercial Canadian legal research. *(Commercial)*
+- [A2AJ] (https://a2aj.ca/) - Open Legal Canadian Database
 
 ### Mexico
 
@@ -209,7 +213,12 @@ Most resources are openly available.
 - [Westlaw Japan](https://go.westlawjapan.com/) / [LexisNexis Japan](https://www.lexisnexis.jp/) — Commercial JP legal research suites. *(Commercial)*
 - [Competition on Legal Information Extraction/Entailment (COLIEE 2020)](https://sites.ualberta.ca/~rabelo/COLIEE2020/)
 
+## South Korea
+- [https://open.law.go.kr/LSO/openApi/guideList.do] - Open Legal Data
 
+### Russia
+- [https://github.com/irlcode/RusLawOD] - Open Legal Data
+- [IPBD.ru] - Open Legal Data
 ---
 
 ## Brazil
