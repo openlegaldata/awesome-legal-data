@@ -137,6 +137,9 @@ Most resources are openly available.
 
 ---
 
+### Turkey
+- [https://acikveri.yagiz.dev/] - Open Legal Turkey
+
 ## North America
 
 ### United States
