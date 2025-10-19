@@ -26,7 +26,7 @@ Most resources are openly available.
 - [LEDGAR](https://nlp.jhu.edu/ledgar/) — Contract clause classification dataset (common clause types from EDGAR filings). *(Open)*
 - [ContractNLI](https://github.com/nyu-mll/contract-nli) — Natural-language inference dataset for contracts (entailment/contradiction/neutral). *(Open)*
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
-
+- [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 
 ## Europe & European Union
 
