@@ -117,6 +117,7 @@ Most resources are openly available.
 - [Fedlex](https://www.fedlex.admin.ch/) — Official Swiss federal law portal (RDF/Linked Data available). *(Open)*
 - [Swiss Federal Supreme Court (BGer/BGerentscheid)](https://www.bger.ch/) — Search engine for decisions. *(Open)*
 - [Entscheidsuche](https://entscheidsuche.ch/) — Meta-search across Swiss case law sources. *(Open)*
+- [OpenCaseLaw](https://opencaselaw.ch/) — 950k+ Swiss court decisions (federal & all 26 cantons) with citation graph, full-text search, and MCP API; bulk Parquet on Hugging Face. *(Open, API)* [(HF)](https://huggingface.co/datasets/voilaj/swiss-caselaw)
 - [Swisslex](https://www.swisslex.ch/) — Commercial Swiss legal research. *(Commercial)*
 - [Swiss-Judgment-Prediction: A Multilingual Legal Judgment Prediction Benchmark](https://arxiv.org/abs/2110.00806)
 
