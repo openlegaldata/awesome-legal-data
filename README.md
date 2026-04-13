@@ -27,6 +27,7 @@ Most resources are openly available.
 - [ContractNLI](https://github.com/nyu-mll/contract-nli) — Natural-language inference dataset for contracts (entailment/contradiction/neutral). *(Open)*
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
+- [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
 
 ## Europe & European Union
 
