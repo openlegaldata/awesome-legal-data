@@ -162,6 +162,7 @@ Most resources are openly available.
 - [Fastcase](https://www.fastcase.com/) — Case law & statutes with citator; often via bar membership. *(Commercial)*
 - [Westlaw / Lexis+](https://legal.thomsonreuters.com/) • [Lexis+](https://www.lexisnexis.com/) — Comprehensive U.S. primary/secondary law & citators (KeyCite/Shepard’s). *(Commercial)*
 - [H2O Open Case Book](https://opencasebook.org/)
+- [AI Laws by State](https://www.ailawsbystate.com) — 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits). *(Open)*
 
 
 ### Canada
