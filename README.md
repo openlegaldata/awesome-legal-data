@@ -141,6 +141,7 @@ Most resources are openly available.
 
 ### Turkey
 - [https://acikveri.yagiz.dev/] - Open Legal Turkey
+- [Avukatistan](https://avukatistan.com) — Turkish legal research platform with case law, legislation, legal questions, and lawyer profile data. *(Open)*
 
 ## North America
 
