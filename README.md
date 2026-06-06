@@ -219,6 +219,7 @@ Most resources are openly available.
 
 ## South Korea
 - [https://open.law.go.kr/LSO/openApi/guideList.do] - Open Legal Data
+- [MiniLex 7-domain Korean lawdata (wellsa-ai)](https://minilex.wellsa.ai) — Korean public legal corpora unified: statutes (5,589), administrative rules (10,765), court precedents (171,014), statutory interpretations (8,728), constitutional court decisions (38,092), local ordinances (159,910), treaties (6,907). 397K+ Markdown docs, MIT licensed, daily cron updates. *(Open, API)* [[HF](https://huggingface.co/wellsa-ai)] [[GitHub](https://github.com/wellsa-ai)]
 
 ### Russia
 - [https://github.com/irlcode/RusLawOD] - Open Legal Data
