@@ -164,6 +164,7 @@ Most resources are openly available.
 - [Westlaw / Lexis+](https://legal.thomsonreuters.com/) • [Lexis+](https://www.lexisnexis.com/) — Comprehensive U.S. primary/secondary law & citators (KeyCite/Shepard’s). *(Commercial)*
 - [H2O Open Case Book](https://opencasebook.org/)
 - [AI Laws by State](https://www.ailawsbystate.com) — 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits). *(Open)*
+- [Advottic Legal Data](https://github.com/TechnoOptics/legal-data) — US statute of limitations across 51 jurisdictions (50 states + DC) and 9 claim categories (personal injury, contract, fraud, defamation, medical malpractice, wrongful death, debt collection); plus 5 lawyer-reviewed legal templates with tokenized body text. JSON datasets, CC BY 4.0. [Live JSON endpoints](https://advottic.com/open-data) with permissive CORS. *(Open, API)*
 
 
 ### Canada
