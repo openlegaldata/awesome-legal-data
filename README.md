@@ -165,6 +165,7 @@ Most resources are openly available.
 - [H2O Open Case Book](https://opencasebook.org/)
 - [AI Laws by State](https://www.ailawsbystate.com) — 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits). *(Open)*
 - [Advottic Legal Data](https://github.com/TechnoOptics/legal-data) — US statute of limitations across 51 jurisdictions (50 states + DC) and 9 claim categories (personal injury, contract, fraud, defamation, medical malpractice, wrongful death, debt collection); plus 5 lawyer-reviewed legal templates with tokenized body text. JSON datasets, CC BY 4.0. [Live JSON endpoints](https://advottic.com/open-data) with permissive CORS. *(Open, API)*
+- [Lien Deadlines](https://github.com/iPythoning/lien-deadlines) — US mechanics/construction lien deadlines for CA, TX & FL by claimant role (direct contractor / subcontractor), with verbatim statute citations (CA Civil Code §8000 et seq., TX Property Code ch. 53, FL Statutes ch. 713) and conditional rules (e.g. Notice-of-Completion reductions). JSON + CSV, CC BY 4.0. [Live reference + calculator](https://ipythoning.github.io/lien-deadlines/). *(Open)*
 
 
 ### Canada
