@@ -84,6 +84,7 @@ Most resources are openly available.
 - [Italgiure (Corte di Cassazione)](https://www.italgiure.giustizia.it/) — Supreme Court case law database/portal. *(Mixed/Institutional)*
 - [De Jure (Giuffrè Francis Lefebvre)](https://dejure.giuffre.it/) — Case law, legislation, commentary. *(Commercial)*
 - [Pluris (Wolters Kluwer)](https://pluris.wolterskluwer.it/) — Comprehensive Italian legal research platform. *(Commercial)*
+- [Italia Corpus](https://github.com/ahmeabd/italia-corpus) — Full Italian legislation parsed to Markdown, updated daily. *(Open)*
 
 
 ### Spain
