@@ -84,6 +84,9 @@ Most resources are openly available.
 - [Italgiure (Corte di Cassazione)](https://www.italgiure.giustizia.it/) — Supreme Court case law database/portal. *(Mixed/Institutional)*
 - [De Jure (Giuffrè Francis Lefebvre)](https://dejure.giuffre.it/) — Case law, legislation, commentary. *(Commercial)*
 - [Pluris (Wolters Kluwer)](https://pluris.wolterskluwer.it/) — Comprehensive Italian legal research platform. *(Commercial)*
+- [D.Lgs 81/08 Testo Unico (Italian Workplace Safety Act)](https://github.com/tutor-sicurezza/dlgs-81-08-testo-unico) — Structured Markdown + JSON index of the consolidated Italian occupational safety code (13 Titoli, key articles 17/18/19/28/37/41/55/77/96/98/100/177/256...). For legal NLP, chatbots, and AI agents. *(Open)*
+- [D.Lgs 81/08 Glossary](https://github.com/tutor-sicurezza/dlgs-81-08-glossario) — 218 legal definitions from the Italian workplace-safety code with precise article references. JSON. *(Open)*
+- [Accordi Stato-Regioni (Workplace Safety Training)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro) — Structured summaries of the Italian State-Regions Agreements on safety training (2011, 2012, 2016, 2025). Markdown + JSON metadata. *(Open)*
 
 
 ### Spain
