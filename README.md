@@ -85,6 +85,9 @@ Most resources are openly available.
 - [De Jure (Giuffrè Francis Lefebvre)](https://dejure.giuffre.it/) — Case law, legislation, commentary. *(Commercial)*
 - [Pluris (Wolters Kluwer)](https://pluris.wolterskluwer.it/) — Comprehensive Italian legal research platform. *(Commercial)*
 - [Italia Corpus](https://github.com/ahmeabd/italia-corpus) — Full Italian legislation parsed to Markdown, updated daily. *(Open)*
+- [D.Lgs 81/08 Testo Unico (Italian Workplace Safety Act)](https://github.com/tutor-sicurezza/dlgs-81-08-testo-unico) — Structured Markdown + JSON index of the consolidated Italian occupational safety code (13 Titoli, key articles 17/18/19/28/37/41/55/77/96/98/100/177/256...). For legal NLP, chatbots, and AI agents. *(Open)*
+- [D.Lgs 81/08 Glossary](https://github.com/tutor-sicurezza/dlgs-81-08-glossario) — 218 legal definitions from the Italian workplace-safety code with precise article references. JSON. *(Open)*
+- [Accordi Stato-Regioni (Workplace Safety Training)](https://github.com/tutor-sicurezza/accordi-stato-regioni-sicurezza-lavoro) — Structured summaries of the Italian State-Regions Agreements on safety training (2011, 2012, 2016, 2025). Markdown + JSON metadata. *(Open)*
 
 
 ### Spain
@@ -154,6 +157,7 @@ Most resources are openly available.
 - [Federal Register](https://www.federalregister.gov/) — Daily federal rules/notices; full [API](https://www.federalregister.gov/). *(Open, API)*
 - [case.law (Caselaw Access Project)](https://case.law/) — ~6.7M U.S. opinions (1658–2018); bulk & [API](https://case.law/). *(Open, API)*
 - [CourtListener](https://www.courtlistener.com/) — Millions of opinions + dockets via RECAP; robust [API](https://www.courtlistener.com/)/bulk. *(Open, API)*
+- [SettleSignal](https://settlesignal.com/data/settlements.json) — Verified U.S. class-action & refund settlement catalog (claim deadlines, proof rules, status, official claim links) as open JSON; public fields free with attribution. *(Open, API)*
 - [Free Law Project](https://free.law).
 - [PACER](https://pacer.uscourts.gov/) — Federal court dockets & filings (fees apply). *(Commercial/Gov)*
 - [Oyez](https://www.oyez.org/) — SCOTUS audio, transcripts, and case summaries (education-oriented). *(Open)*
@@ -165,6 +169,8 @@ Most resources are openly available.
 - [Westlaw / Lexis+](https://legal.thomsonreuters.com/) • [Lexis+](https://www.lexisnexis.com/) — Comprehensive U.S. primary/secondary law & citators (KeyCite/Shepard’s). *(Commercial)*
 - [H2O Open Case Book](https://opencasebook.org/)
 - [AI Laws by State](https://www.ailawsbystate.com) — 50-state tracker for U.S. artificial intelligence legislation, sourced from primary state legislature feeds. Covers bill status, effective dates, penalty structures, and topic categorization (deepfakes, hiring, healthcare AI, disclosure, bias audits). *(Open)*
+- [Advottic Legal Data](https://github.com/TechnoOptics/legal-data) — US statute of limitations across 51 jurisdictions (50 states + DC) and 9 claim categories (personal injury, contract, fraud, defamation, medical malpractice, wrongful death, debt collection); plus 5 lawyer-reviewed legal templates with tokenized body text. JSON datasets, CC BY 4.0. [Live JSON endpoints](https://advottic.com/open-data) with permissive CORS. *(Open, API)*
+- [Lien Deadlines](https://github.com/iPythoning/lien-deadlines) — US mechanics/construction lien deadlines for CA, TX & FL by claimant role (direct contractor / subcontractor), with verbatim statute citations (CA Civil Code §8000 et seq., TX Property Code ch. 53, FL Statutes ch. 713) and conditional rules (e.g. Notice-of-Completion reductions). JSON + CSV, CC BY 4.0. [Live reference + calculator](https://ipythoning.github.io/lien-deadlines/). *(Open)*
 
 
 ### Canada
