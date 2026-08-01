@@ -66,6 +66,7 @@ Most resources are openly available.
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
 - [gesp: Download all available German court decisions straight from the command line](https://github.com/niklaswais/gesp)
+- [Fundstellensuche](https://fundstellensuche.de/) — Free full-text search over 577k+ German court decisions plus AI-assisted analysis (commentary mode, statute lookups, question tool). *(Open)*
 - [German Legal Sentences (GLS): Semantic sentence matching and citation recommendation](https://huggingface.co/datasets/lavis-nlp/german_legal_sentences)
 - [dejure: German laws and court decisions including citations (no API)](https://dejure.org/)
 
