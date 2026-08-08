@@ -107,7 +107,7 @@ Most resources are openly available.
 
 ### Luxembourg
 
-- [Legilux](https://legilux.public.lu/) — Official Journal and consolidated legislation of the Grand Duchy (FR/DE, some EN/LB). Public **SPARQL** endpoint over a JOLux/RDF model, plus Akoma Ntoso XML and Formex. *(Open, API)*
+- [Legilux](https://legilux.public.lu/) — Official Journal and consolidated legislation of the Grand Duchy (FR/DE, some EN/LB). Public **SPARQL** endpoint over JOLux and ELI/RDF metadata, with reusable official content files. *(Open, API)*
 - [Legilux dataset on data.public.lu](https://data.public.lu/en/datasets/legilux-journal-officiel-du-grand-duche-de-luxembourg/) — The same SPARQL endpoint as published on the national open data portal by the Service central de législation. *(Open, API)*
 - [Lex](https://law.soufien.lu/) — Point-in-time layer over official Luxembourg and reviewed EU law: what a given law said on a given date, with per-article history, comparison and publisher provenance. Public **Model Context Protocol (MCP)** endpoint and CC-BY per-article datasets. *(Open, API)* [(code)](https://github.com/SFHAJJI/lex) [(data)](https://github.com/SFHAJJI/lex-articles)
 
