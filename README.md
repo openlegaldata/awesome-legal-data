@@ -232,6 +232,10 @@ Most resources are openly available.
 - [Westlaw Japan](https://go.westlawjapan.com/) / [LexisNexis Japan](https://www.lexisnexis.jp/) — Commercial JP legal research suites. *(Commercial)*
 - [Competition on Legal Information Extraction/Entailment (COLIEE 2020)](https://sites.ualberta.ca/~rabelo/COLIEE2020/)
 
+### Southeast Asia, Hong Kong & Taiwan
+
+- [shakalakaa Compliance Rule Sets](https://github.com/shakalakaa-plixitt/compliance-rules) — Machine-readable JSON encodings of healthcare/advertising compliance rules for Malaysia, Singapore, Hong Kong and Taiwan (plus Australia): MOH/HCSA, KKM/MMC, MDC, PDPA-DNC, Undesirable Medical Advertisements Ordinance, TFDA and moneylending-advertising rules — 10 rule sets total, each rule individually source-cited (`source_url`/`source_note`, honestly `null` where no primary source was found). *(Open, CC BY 4.0)*
+
 ## South Korea
 - [https://open.law.go.kr/LSO/openApi/guideList.do] - Open Legal Data
 
