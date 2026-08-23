@@ -189,6 +189,7 @@ Most resources are openly available.
 - [Supreme Court of Canada Judgments](https://scc-csc.lexum.com/) — Full-text decisions (LexUM). *(Open)*
 - [WestlawNext Canada](https://www.thomsonreuters.ca/en/westlaw.html) / [Lexis Advance Quicklaw](https://www.lexisnexis.ca/en) — Commercial Canadian legal research. *(Commercial)*
 - [A2AJ] (https://a2aj.ca/) - Open Legal Canadian Database
+- [Canadian Rental Address Research](https://github.com/Fink692/canadian-rental-data-sources) — Source-dated directory of official municipal permit/property records and provincial tenancy/land-registry sources for eight Canadian cities, with a machine-readable CSV and methodology. *(Open)*
 
 ### Mexico
 
