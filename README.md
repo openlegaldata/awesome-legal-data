@@ -122,6 +122,7 @@ Most resources are openly available.
 - [ISAP (Sejm)](https://isap.sejm.gov.pl/) — Internet System of Legal Acts (Polish legislation). *(Open)*
 - [Legalis / LEX (Wolters Kluwer)](https://www.wolterskluwer.com/pl-pl/solutions/lex) — Commercial Polish legal databases. *(Commercial)*
 - [mojeprawo.io](https://mojeprawo.io/)
+- [OKF-Legal](https://github.com/apiotrowski-afk/okf-legal) — Open markdown+YAML profile and case-law reasoning-atom corpus (~1,100 Polish consumer-credit-law judgments, ~135k extracted reasoning units with verbatim quotes, holding direction, and ratio/obiter status), plus anti-hallucination consumption rules for LLM use. *(Open)*
 
 
 ### Switzerland
