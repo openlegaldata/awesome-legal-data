@@ -165,6 +165,7 @@ Most resources are openly available.
 - [Federal Register](https://www.federalregister.gov/) — Daily federal rules/notices; full [API](https://www.federalregister.gov/). *(Open, API)*
 - [case.law (Caselaw Access Project)](https://case.law/) — ~6.7M U.S. opinions (1658–2018); bulk & [API](https://case.law/). *(Open, API)*
 - [CourtListener](https://www.courtlistener.com/) — Millions of opinions + dockets via RECAP; robust [API](https://www.courtlistener.com/)/bulk. *(Open, API)*
+- [California Superior Court Financial-Disclosure Directory](https://communityproperty.ai/datasets/california-court-financial-disclosure-directory/) — Independently maintained 58-county directory of official superior-court financial-disclosure and family-law source pages, with source types, scope notes, review dates, CSV, CC BY 4.0 licensing, checksums, and a versioned [data repository](https://github.com/EconLearn/community-property-data). *(Open)*
 - [SettleSignal](https://settlesignal.com/data/settlements.json) — Verified U.S. class-action & refund settlement catalog (claim deadlines, proof rules, status, official claim links) as open JSON; public fields free with attribution. *(Open, API)*
 - [Free Law Project](https://free.law).
 - [PACER](https://pacer.uscourts.gov/) — Federal court dockets & filings (fees apply). *(Commercial/Gov)*
