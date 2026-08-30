@@ -63,6 +63,7 @@ Most resources are openly available.
 - [OpenJur](https://openjur.de/) — Community open case-law database (DE & EU decisions). *(Open)*
 - [Open Legal Data (DE)](https://openlegaldata.io/) — Open platform & **API** for German legal documents/case law. *(Open, API)*  [(HF)](https://huggingface.co/openlegaldata)
 - [juris](https://www.juris.de/) — Comprehensive German legal database (cases, laws, journals). *(Commercial)*
+- [SpecterAI](https://www.specterlaw.ai/) — German legal AI platform for legal information, document analysis, source-oriented research, drafting, and structured next steps. *(Commercial)*
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
 - [gesp: Download all available German court decisions straight from the command line](https://github.com/niklaswais/gesp)
