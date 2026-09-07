@@ -231,6 +231,8 @@ Most resources are openly available.
 - [Japanese Law Translation](https://www.japaneselawtranslation.go.jp/) — MOJ database of unofficial English translations of key laws. *(Open)*
 - [Supreme Court of Japan — Judgments](https://www.courts.go.jp/app/hanrei_en/) — Search Supreme Court decisions (some English summaries). *(Open)*
 - [WIPO Lex-Judgments (Japan IP)](https://wipolex.wipo.int/en/judgments) — Selected Japanese IP judgments in English. *(Open)*
+- [keihyo-cases (景品表示法 措置命令・課徴金納付命令)](https://eoylab.github.io/keihyo-cases/) — Machine-readable dataset of Consumer Affairs Agency enforcement orders under the Act against Unjustifiable Premiums and Misleading Representations, with the cited provisions and a source URL per case; JSON/JSONL/CSV plus an MCP server. Source data under the Public Data License 1.0. *(Open, API)*
+- [jftc-actions (公正取引委員会 排除措置命令・取適法勧告)](https://eoylab.github.io/jftc-actions/) — Machine-readable dataset of Japan Fair Trade Commission cease-and-desist orders (Antimonopoly Act) and Subcontract Act recommendations, with a source URL per action; JSON/JSONL/CSV plus an MCP server. Source data under the Public Data License 1.0. *(Open, API)*
 - [COLIEE](https://sites.ualberta.ca/~rabelo/COLIEE2023/) — Legal Information Extraction & Entailment shared task (JP Civil Code QA, case retrieval). *(Open)*
 - [Westlaw Japan](https://go.westlawjapan.com/) / [LexisNexis Japan](https://www.lexisnexis.jp/) — Commercial JP legal research suites. *(Commercial)*
 - [Competition on Legal Information Extraction/Entailment (COLIEE 2020)](https://sites.ualberta.ca/~rabelo/COLIEE2020/)
