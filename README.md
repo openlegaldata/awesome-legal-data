@@ -28,6 +28,7 @@ Most resources are openly available.
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 - [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
+- [SafeLegalAI datasets](https://safelegalai.com/datasets) — Thirteen CC BY 4.0 tables on AI in legal practice, each row linked to its primary source and last-checked date: court decisions sanctioning AI misuse (150, 15 jurisdictions), US court decisions discussing generative AI (567), AI-evidence and deepfake rulings (60), a 130-country regulatory map with 515 versioned official documents, the EU AI Act as structured data with Member-State implementation, US court AI standing orders (222) and bills (41), justice-sector AI deployments (595), and what legal-tech vendors document. Mirrors on [Hugging Face](https://huggingface.co/safelegalaidata) and [GitHub](https://github.com/SafeLegalAI). *(Open)*
 
 ## Europe & European Union
 
