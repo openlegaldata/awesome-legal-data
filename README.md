@@ -28,6 +28,7 @@ Most resources are openly available.
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 - [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
+- [Wayfinder Atlas](https://www.thewayfinder.health/atlas) — Legal status of psilocybin, MDMA, ketamine and ayahuasca therapy in 60 jurisdictions, with primary-source links and a last-verified date per row; monthly CSV/JSON releases, CC BY 4.0, Zenodo DOI [10.5281/zenodo.21269664](https://doi.org/10.5281/zenodo.21269664). *(Open)*
 
 ## Europe & European Union
 
