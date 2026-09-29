@@ -123,6 +123,7 @@ Most resources are openly available.
 - [Legalis / LEX (Wolters Kluwer)](https://www.wolterskluwer.com/pl-pl/solutions/lex) — Commercial Polish legal databases. *(Commercial)*
 - [mojeprawo.io](https://mojeprawo.io/)
 - [OKF-Legal](https://github.com/apiotrowski-afk/okf-legal) — Open markdown+YAML profile and case-law reasoning-atom corpus (~1,100 Polish consumer-credit-law judgments, ~135k extracted reasoning units with verbatim quotes, holding direction, and ratio/obiter status), plus anti-hallucination consumption rules for LLM use. *(Open)*
+- [Dziennik Ustaw 2025+ in Markdown/JSON](https://github.com/PolskiAgentW/dziennik-ustaw-md) — Unofficial texts of all Polish Journal of Laws acts since 2025 (the Sejm ELI API serves them only as PDF), converted with the open-source [eli2md](https://github.com/PolskiAgentW/eli2md); Markdown plus a JSON tree of units (art./ust./pkt/lit.), updated daily. Accuracy measured on held-out 2024 acts against the official HTML. *(Open)*
 
 
 ### Switzerland
