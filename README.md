@@ -270,6 +270,7 @@ Most resources are openly available.
 
 - [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
 - [PileOfLaw](https://github.com/Breakend/PileOfLaw)
+- [EU AI Regulation Decoded — EU AI Act Obligation-to-Evidence Dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset) — Structured, machine-readable dataset mapping EU AI Act obligations to the evidence an auditor expects, with roles, risk tiers, deadlines, and audit red flags; JSON/CSV plus an integrity validator, CC BY 4.0. *(Open)*
 
 ## Tools
 
