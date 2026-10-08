@@ -163,6 +163,7 @@ Most resources are openly available.
 - [U.S. Code (XML)](https://uscode.house.gov/download/download.shtml) — Bulk downloads of the United States Code in XML. *(Open)*
 - [eCFR](https://www.ecfr.gov/) — Up-to-date Code of Federal Regulations; [API](https://www.ecfr.gov/) via Federal Register. *(Open, API)*
 - [Federal Register](https://www.federalregister.gov/) — Daily federal rules/notices; full [API](https://www.federalregister.gov/). *(Open, API)*
+- [Tyllus U.S. Import Evidence Change Radar](https://www.tyllus.com/en/resources/us-import-evidence-change-radar) — Maintained, non-exhaustive selection of import-related Federal Register notices from CBP, FMC, ITA, ITC and USTR, with document IDs, dates, official sources and deterministic evidence-domain tags. No-sign-up JSON/CSV downloads; Tyllus Terms of Use apply. A discovery aid, not legal advice or an authoritative statement of current law. *(Open)*
 - [case.law (Caselaw Access Project)](https://case.law/) — ~6.7M U.S. opinions (1658–2018); bulk & [API](https://case.law/). *(Open, API)*
 - [CourtListener](https://www.courtlistener.com/) — Millions of opinions + dockets via RECAP; robust [API](https://www.courtlistener.com/)/bulk. *(Open, API)*
 - [SettleSignal](https://settlesignal.com/data/settlements.json) — Verified U.S. class-action & refund settlement catalog (claim deadlines, proof rules, status, official claim links) as open JSON; public fields free with attribution. *(Open, API)*
