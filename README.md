@@ -182,6 +182,7 @@ Most resources are openly available.
 - [US State Name-Change Requirements](https://github.com/small-business-software-maker/name-change-requirements-by-state) — US driver's-license / state-ID name-change requirements after marriage across 46 jurisdictions: issuing agency, fee, whether an in-person visit is required, the legal deadline (or a note where none is published), the official state source URL, and last-verified date. Each row links to its official government source. CSV + JSON, CC BY 4.0. [Live reference](https://namechangepacket.com/name-change-requirements-by-state/). *(Open)*
 - [US Federal AI Enforcement Tracker](https://vorplabs.com/ai-regulatory-updates/federal-enforcement) — 42 U.S. federal AI-related enforcement actions from the FTC, DOJ, SEC, FCC, and EEOC, with docket or file numbers, legal authorities, status, penalties or relief, and linked agency or court sources. Monthly versioned CSV and JSON releases, CC BY 4.0. *(Open)*
 - [Ezel](https://ezel.ai) — Free library of 21,000+ U.S. legal templates plus searchable collections of state attorney general opinions, bar ethics opinions, tax rulings, judge analytics, and 50-state surveys; free to search without an account. *(Open, Commercial)*
+- [bar-ai-guidance](https://github.com/munimv2/bar-ai-guidance) — JSON index of US bar and court guidance on lawyers' use of generative AI (ABA and state bars), with the issuer's own link and the date it was checked for every document. *(Open)*
 
 
 ### Canada
