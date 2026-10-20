@@ -270,6 +270,7 @@ Most resources are openly available.
 
 - [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
 - [PileOfLaw](https://github.com/Breakend/PileOfLaw)
+- [Lebanese Legislation](https://huggingface.co/datasets/taktekhq/lebanese-legislation) - Lebanese laws, decrees, court rulings and Official Gazette in Arabic and French, with an amendment and citation graph (Parquet, updated nightly).
 
 ## Tools
 
