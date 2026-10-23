@@ -28,6 +28,7 @@ Most resources are openly available.
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 - [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
+- [VASP Tracker data](https://github.com/vasptracker/vasptracker-data) — Crypto-asset service provider (VASP/CASP) licensing regimes and deadlines for 74 jurisdictions, each date linked to the law or regulator notice; CSV/JSON under CC BY 4.0. *(Open)*
 
 ## Europe & European Union
 
