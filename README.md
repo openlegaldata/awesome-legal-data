@@ -166,6 +166,7 @@ Most resources are openly available.
 - [case.law (Caselaw Access Project)](https://case.law/) — ~6.7M U.S. opinions (1658–2018); bulk & [API](https://case.law/). *(Open, API)*
 - [CourtListener](https://www.courtlistener.com/) — Millions of opinions + dockets via RECAP; robust [API](https://www.courtlistener.com/)/bulk. *(Open, API)*
 - [SettleSignal](https://settlesignal.com/data/settlements.json) — Verified U.S. class-action & refund settlement catalog (claim deadlines, proof rules, status, official claim links) as open JSON; public fields free with attribution. *(Open, API)*
+- [VerdictWiki](https://verdictwiki.com/) — Independent reference database of major lawsuits: mass torts, class actions, and landmark verdicts. 97 case records across 11 countries, with docket numbers, plaintiff counts over time, and settlement/verdict figures sourced to public court records and regulatory sources. *(Open)*
 - [Free Law Project](https://free.law).
 - [PACER](https://pacer.uscourts.gov/) — Federal court dockets & filings (fees apply). *(Commercial/Gov)*
 - [Oyez](https://www.oyez.org/) — SCOTUS audio, transcripts, and case summaries (education-oriented). *(Open)*
