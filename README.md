@@ -223,6 +223,7 @@ Most resources are openly available.
 - [CAIL2018](https://github.com/china-ai-law-challenge/CAIL2018) — Large-scale Chinese legal judgment datasets (charges, articles, term prediction). *(Open)*
 - [LeCaRD](https://github.com/PKU-ICST-LeCaRD/LeCaRD) — Chinese Legal Case Retrieval Dataset for precedent search benchmarks. *(Open)*
 - [JEC-QA](https://github.com/china-ai-law-challenge/JEC-QA) — Judicial Examination Challenge QA dataset (multi-choice legal questions). *(Open)*
+- [Chinese Law Corpus](https://github.com/lttxzmj/chinese-law-corpus) — 1,513 PRC laws, judicial interpretations and administrative regulations as article-level structured JSON (56k articles with stable IDs, effective-status and official-source metadata), plus 278 SPC guiding cases and 445 SPC Gazette case documents; built from the official NPC database, CC0. *(Open)*
 
 
 ### Japan
