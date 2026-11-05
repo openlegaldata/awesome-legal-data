@@ -12,6 +12,7 @@ Most resources are openly available.
 
 ## Global & Multi‑Jurisdictional
 
+* [Normify](https://normify.me/) — Legal and standards management platform providing AI-powered discovery of relevant German and EU legislation, regulations, and standards, as well as APIs for retrieving legal metadata, full texts, requirements, and tracking amendments. ([Legal Discover API](https://github.com/Normify-me/legal-discover-api), [Legal Update API](https://github.com/Normify-me/legal-update-api)). (Commercial, API)
 - [WorldLII](http://www.worldlii.org/) — Federated gateway to free legal information worldwide (legislation, case law, treaties) across national LIIs. *(Open)*
 - [vLex](https://www.vlex.com/) — Global legal research platform covering 100+ jurisdictions; case law, legislation, journals, and analytics. *(Commercial)*
 - [Westlaw](https://legal.thomsonreuters.com/en/westlaw) — Thomson Reuters’ flagship global legal research service (cases, statutes, citators, secondary sources). *(Commercial)*
@@ -62,6 +63,7 @@ Most resources are openly available.
 - [NeuRIS (Neues Rechtsinformationssystem)](https://digitalservice.bund.de/projekte/neues-rechtsinformationssystem) *(API)*
 - [OpenJur](https://openjur.de/) — Community open case-law database (DE & EU decisions). *(Open)*
 - [Open Legal Data (DE)](https://openlegaldata.io/) — Open platform & **API** for German legal documents/case law. *(Open, API)*  [(HF)](https://huggingface.co/openlegaldata)
+- [Normify](https://normify.me/) — Database and APIs for German legislation, DIN standards, DGUV regulations and BAuA publications. (Commercial, API)
 - [juris](https://www.juris.de/) — Comprehensive German legal database (cases, laws, journals). *(Commercial)*
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
@@ -138,6 +140,7 @@ Most resources are openly available.
 ### Austria
 
 - [RIS](https://www.ris.bka.gv.at/) — Federal Legal Information System (legislation, case law). *(Open)*
+- [Normify](https://normify.me/) — Database and APIs for Austrian federal, provincial, district and municipal legislation, Arbeitsinspektion regulations, and Austrian standards (ÖNORM, ONR, ÖTR). (Commercial, API)
 
 
 ### Czech
