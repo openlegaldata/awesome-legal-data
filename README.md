@@ -125,6 +125,11 @@ Most resources are openly available.
 - [OKF-Legal](https://github.com/apiotrowski-afk/okf-legal) — Open markdown+YAML profile and case-law reasoning-atom corpus (~1,100 Polish consumer-credit-law judgments, ~135k extracted reasoning units with verbatim quotes, holding direction, and ratio/obiter status), plus anti-hallucination consumption rules for LLM use. *(Open)*
 
 
+### Romania
+
+- [Portal legislativ](https://legislatie.just.ro/) — Ministry of Justice portal: official texts of Romanian normative acts and their consolidated forms. *(Open, API)*
+- [romania-law](https://github.com/lexifina/romania-law) — Romanian law as one git history: about 245,000 acts (Constitution, codes, laws, ordinances, Government decisions, ministerial orders, local council decisions, EU law in Romanian), each version a commit dated on the day it took effect, one Markdown file per article; with about 25,800 Constitutional Court, High Court, ECHR and CJEU decisions linked to the articles they concern. *(Open, API)*
+
 ### Switzerland
 
 - [Fedlex](https://www.fedlex.admin.ch/) — Official Swiss federal law portal (RDF/Linked Data available). *(Open)*
