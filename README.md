@@ -28,6 +28,7 @@ Most resources are openly available.
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 - [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
+- [Global Law (Lexifina)](https://github.com/lexifina/global-law) — The world's law as git: 714 corpora across 208 jurisdictions, each act's history as commits dated the day each change took effect, one file per provision; read any provision on any date, see which law wrote each word, compare dates. CLI and MCP server. *(Open, API)*
 
 ## Europe & European Union
 
