@@ -17,6 +17,7 @@ Most resources are openly available.
 - [Westlaw](https://legal.thomsonreuters.com/en/westlaw) — Thomson Reuters’ flagship global legal research service (cases, statutes, citators, secondary sources). *(Commercial)*
 - [LexisNexis / Lexis+](https://www.lexisnexis.com/) — Global legal content (case law, statutes, Practical Guidance, news). *(Commercial)*
 - [HeinOnline](https://home.heinonline.org/) — Extensive law journal & historical legislative archives; treaties; session laws. *(Commercial)*
+- [Ansvar Gateway](https://ansvar.eu/) — MCP gateway giving AI agents cited access to European and US laws, regulations, and standards; 46 jurisdictions with paragraph-level citations to the official publisher. Free tier. *(Commercial, API)*
 - [WIPO Lex](https://www.wipo.int/wipolex/) — Global database of IP laws/treaties and **WIPO Lex-Judgments** for selected IP case law. *(Open)*
 - [SSRN (Legal Scholarship Network)](https://www.ssrn.com/) — Open repository of legal scholarship/preprints. *(Open)*
 - [OpenAlex](https://openalex.org/) — Scholarly metadata/abstracts (including law journals) with an **API**; useful for legal literature mining. *(Open, API)*
