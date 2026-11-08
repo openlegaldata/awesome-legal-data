@@ -53,6 +53,7 @@ Most resources are openly available.
 - [ICLR](https://www.iclr.co.uk/) — Official Law Reports and case analysis. *(Commercial)*
 - [Westlaw UK](https://legal.thomsonreuters.com/en/uk-and-ireland/westlaw-uk) — UK cases, legislation, journals, and analytics. *(Commercial)*
 - [Lexis+ UK](https://www.lexisnexis.co.uk/legal/lexisplus-uk) — UK case law, legislation, commentary (Halsbury’s). *(Commercial)*
+- [CaseNode](https://casenode.ai/) — 290k+ UK court & tribunal judgments with full text and a 2.5M-link citation graph. Search, citation resolution & validation; **API** & MCP server, free key tier. *(Commercial, API)*
 
 
 ### Germany
