@@ -247,6 +247,14 @@ Most resources are openly available.
 - [IPBD.ru] - Open Legal Data
 ---
 
+## Middle East
+
+### Syria
+- [Nawafith Governance](https://gov.nawafith.net/en) — Syria's Official Gazette as open, searchable records: decrees, decisions and laws with the Arabic text and an English machine translation, plus company and association notices, each linked to its gazette issue; public API. *(Open, CC BY-SA 4.0)*
+- [Syrian Official Gazette Records](https://doi.org/10.5281/zenodo.24122383) — Dataset of metadata for 4,162 decrees and decisions printed in 2025 and 2026 and 3,042 company notices, in Arabic and English, each row linked to the record's full text. *(Open, CC BY-SA 4.0)*
+
+---
+
 ## Brazil
 
 - [LexML Brasil](https://www.lexml.gov.br/) — Federated search over Brazilian legislation & legal docs; open standards. *(Open)*
