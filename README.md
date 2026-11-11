@@ -271,6 +271,7 @@ Most resources are openly available.
 - [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
 - [PileOfLaw](https://github.com/Breakend/PileOfLaw)
 - [Lebanese Legislation](https://huggingface.co/datasets/taktekhq/lebanese-legislation) - Lebanese laws, decrees, court rulings and Official Gazette in Arabic and French, with an amendment and citation graph (Parquet, updated nightly).
+- [Syrian Official Gazette Records](https://doi.org/10.5281/zenodo.24122383) - Metadata for 4,162 Syrian decrees and decisions printed in the Official Gazette in 2025 and 2026 (type, number, date, issuing body, title in Arabic and English) and 3,042 company notices, each row linked to the record's full text (CSV, CC BY-SA 4.0).
 
 ## Tools
 
