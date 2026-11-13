@@ -238,6 +238,10 @@ Most resources are openly available.
 ### Southeast Asia, Hong Kong & Taiwan
 
 - [shakalakaa Compliance Rule Sets](https://github.com/shakalakaa-plixitt/compliance-rules) — Machine-readable JSON encodings of healthcare/advertising compliance rules for Malaysia, Singapore, Hong Kong and Taiwan (plus Australia): MOH/HCSA, KKM/MMC, MDC, PDPA-DNC, Undesirable Medical Advertisements Ordinance, TFDA and moneylending-advertising rules — 10 rule sets total, each rule individually source-cited (`source_url`/`source_note`, honestly `null` where no primary source was found). *(Open, CC BY 4.0)*
+- [bruneilaws.com](https://bruneilaws.com/) — Free reader for Brunei Acts and Orders and court judgments, with one page per section; each Act page links to its text on the Attorney General's Chambers site. No account needed to read. *(Open)*
+- [laws.sg](https://laws.sg/) — Free reader for Singapore Acts, subsidiary legislation and judgments, with one page per section; each Act page links to the same Act on Singapore Statutes Online. No account needed to read. *(Open)*
+- [mylaw.my](https://mylaw.my/) — Free reader for Malaysian Acts and subsidiary legislation, with one page per section; each Act page links to the official PDF on Laws of Malaysia Online (AGC). No account needed to read. *(Open)*
+- [srilaws.com](https://srilaws.com/) — Free reader for Sri Lankan Acts (English text; interface also in Sinhala and Tamil), with one page per section; each Act page links to the official English, Sinhala and Tamil PDFs on documents.gov.lk. No account needed to read. *(Open)*
 
 ## South Korea
 - [https://open.law.go.kr/LSO/openApi/guideList.do] - Open Legal Data
