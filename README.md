@@ -28,6 +28,7 @@ Most resources are openly available.
 - [CUAD](https://www.atticusprojectai.org/cuad) — Contract Understanding Atticus Dataset with expert-annotated clauses across 13 categories. *(Open)*
 - [Massive Legal Embedding Benchmark (MLEB)](https://isaacus.com/mleb) - A multidomain open-source benchmark for legal information retrieval. *(Open)*
 - [The Chancery Lane Project (TCLP)](https://labs.chancerylaneproject.org/project/tclp-clause-library/) — Open library of climate-aligned contract clauses across multiple jurisdictions *(Open)*
+- [AI Disclosure Requirements by Platform and Law](https://bigpipe.agency/ai-disclosure-requirements) - 36 rules on labeling AI-generated content across the EU AI Act (Art. 50), the US (FTC rules and California, New York, Utah, Maine and Colorado laws), the UK, China, South Korea and India, and eight ad and social platforms (Meta, TikTok, YouTube and Google Ads, LinkedIn, X, Pinterest, Snapchat, Microsoft Advertising): who must disclose, what triggers it, how, exemptions and consequences, each with the operative wording quoted from the rule-maker's text and a source link. [CSV](https://bigpipe.agency/ai-disclosure-requirements/rules.csv), CC BY 4.0, [DOI](https://doi.org/10.5281/zenodo.24084719). *(Open)*
 
 ## Europe & European Union
 
