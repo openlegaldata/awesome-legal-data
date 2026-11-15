@@ -67,6 +67,7 @@ Most resources are openly available.
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
 - [gesp: Download all available German court decisions straight from the command line](https://github.com/niklaswais/gesp)
 - [German Legal Sentences (GLS): Semantic sentence matching and citation recommendation](https://huggingface.co/datasets/lavis-nlp/german_legal_sentences)
+- [Rent reduction in Germany: court decisions on reduction rates for residential defects](https://doi.org/10.5281/zenodo.24218029) — 110 German court decisions (1973–2025) that granted tenants a rent reduction for defects under § 536 BGB: court, date, case number, defect type, severity and reduction rate; CSV/JSON, CC BY 4.0. *(Open)* [(Table)](https://mietminderung.online/en/mietminderungstabelle)
 - [dejure: German laws and court decisions including citations (no API)](https://dejure.org/)
 
 
