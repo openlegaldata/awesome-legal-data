@@ -123,6 +123,7 @@ Most resources are openly available.
 - [Legalis / LEX (Wolters Kluwer)](https://www.wolterskluwer.com/pl-pl/solutions/lex) — Commercial Polish legal databases. *(Commercial)*
 - [mojeprawo.io](https://mojeprawo.io/)
 - [OKF-Legal](https://github.com/apiotrowski-afk/okf-legal) — Open markdown+YAML profile and case-law reasoning-atom corpus (~1,100 Polish consumer-credit-law judgments, ~135k extracted reasoning units with verbatim quotes, holding direction, and ratio/obiter status), plus anti-hallucination consumption rules for LLM use. *(Open)*
+- [Prawnet](https://prawnet.pl/) — Free search over ~656k Polish court rulings (common courts, Supreme Court, Constitutional Tribunal, National Appeal Chamber) and ~165k legal acts, with a citation graph between rulings, appeal outcomes and case-duration statistics; REST API ([docs](https://prawnet.pl/dane/api)) and a remote MCP server. *(Free; API key required, MCP works without a key)*
 
 
 ### Switzerland
