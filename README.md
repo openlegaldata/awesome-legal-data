@@ -39,6 +39,7 @@ Most resources are openly available.
 - [MultiEURLEX](https://github.com/nlpaueb/multi_eurlex) — ~65k EU legal acts in 23 languages annotated with EuroVoc; for multilabel classification/zero-shot. *(Open)*
 - [OP (Publications Office) Data Portal](https://data.europa.eu/en) — EU Open Data incl. cellar, EuroVoc, and legal metadata via **APIs**. *(Open, API)*
 - [EU Open Data Portal — Cellar](https://op.europa.eu/en/web/about-us/our-data) — Linked Data repository for EU legal documents (RDF/SPARQL). *(Open, API)*
+- [Pandex](https://www.pandex.io) — Official legislation with past versions and highest-court decisions of the EU, FR, DE, NL, UK, AT, CH, LU and the ECHR, by article and with citation links, via an **API** and MCP server. *(Free tier, API)*
 - [MultiEURLEX - A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer](https://arxiv.org/abs/2109.00904)
 - [Mining Legal Arguments in Court Decisions - Data and software (European Court of Human Rights (ECHR))](https://github.com/trusthlt/mining-legal-arguments)
 
