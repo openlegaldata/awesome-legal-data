@@ -213,6 +213,7 @@ Most resources are openly available.
 - [OpenNyAI Datasets](https://opennyai.org/datasets) — Indian legal NLP datasets (judgment summarization, QA, translation). *(Open)*
 - [ILDC (Indian Legal Documents Corpus)](https://github.com/Legal-NLP-EkStep/ILDC) — Public datasets for Indian judgment analysis/summarization (various releases). *(Open)*
 - [eCourtsIndia.com](https://ecourtsindia.com/) — Complete Case details, Orders & judgments (SC/HC/District Courts/tribunals), Research on Lawyers & litigants; full-text search. *(Open)*
+- [India criminal law concordance](https://github.com/legalupayush/india-criminal-law-concordance) — IPC→BNS, CrPC→BNSS and Evidence Act→BSA section tables (1,260 rows) from the official NCRB correspondence tables; CSV and JSON. *(Open)*
 
 ### China
 
