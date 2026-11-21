@@ -48,6 +48,7 @@ Most resources are openly available.
 ### United Kingdom
 
 - [legislation.gov.uk](https://www.legislation.gov.uk/) — Official consolidated UK legislation (Acts, SIs, devolved). **API** & bulk XML. *(Open, API)*
+- [UK Legislation Point-in-Time History (Apify Actor)](https://apify.com/yummy_persimmon_er1/uk-legislation-history) — Fetches the full amendment history of any UK Act or Statutory Instrument from legislation.gov.uk: every point-in-time version, with computed diffs between amendments. Pay-per-event API, no scraping setup required. *(Open, API)*
 - [Find Case Law (The National Archives)](https://caselaw.nationalarchives.gov.uk/) — Free database of court & tribunal judgments (England & Wales). *(Open)*
 - [BAILII](https://www.bailii.org/) — British & Irish Legal Information Institute (UK/IE case law & legislation). *(Open)*
 - [ICLR](https://www.iclr.co.uk/) — Official Law Reports and case analysis. *(Commercial)*
