@@ -154,6 +154,7 @@ Most resources are openly available.
 ### Turkey
 - [https://acikveri.yagiz.dev/] - Open Legal Turkey
 - [Avukatistan](https://avukatistan.com) — Turkish legal research platform with case law, legislation, legal questions, and lawyer profile data. *(Open)*
+- [Turkish Citizenship by Investment: Open Data](https://github.com/Ralegal/turkish-cbi-data) - Thresholds, statutory basis and Resmî Gazete references, government costs, required documents and statistics for Türkiye's citizenship-by-investment programme under Law No. 5901, each figure sourced and dated (JSON/CSV, CC BY 4.0, DOI [10.5281/zenodo.24372293](https://doi.org/10.5281/zenodo.24372293)). *(Open)*
 
 ## North America
 
