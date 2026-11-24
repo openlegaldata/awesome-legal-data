@@ -62,6 +62,7 @@ Most resources are openly available.
 - [NeuRIS (Neues Rechtsinformationssystem)](https://digitalservice.bund.de/projekte/neues-rechtsinformationssystem) *(API)*
 - [OpenJur](https://openjur.de/) — Community open case-law database (DE & EU decisions). *(Open)*
 - [Open Legal Data (DE)](https://openlegaldata.io/) — Open platform & **API** for German legal documents/case law. *(Open, API)*  [(HF)](https://huggingface.co/openlegaldata)
+- [nu:legal](https://recht.nulegal.eu/) — Free full-text database of German federal law & case law: 8,000+ statutes with point-in-time versions since 2019, 550,000+ decisions from 940+ courts (incl. BVerfG and CJEU), linked through a citation network. Text and data mining explicitly permitted. *(Open, API)*
 - [juris](https://www.juris.de/) — Comprehensive German legal database (cases, laws, journals). *(Commercial)*
 - [A Dataset of German Legal Documents for Named Entity Recognition (Lynx Project)](https://github.com/elenanereiss/Legal-Entity-Recognition)
 - [GerDaLIR: A German Dataset for Legal Information Retrieval](https://github.com/lavis-nlp/GerDaLIR) [(Paper)](https://aclanthology.org/2021.nllp-1.13.pdf)
