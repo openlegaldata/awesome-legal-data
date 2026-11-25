@@ -41,6 +41,7 @@ Most resources are openly available.
 - [EU Open Data Portal — Cellar](https://op.europa.eu/en/web/about-us/our-data) — Linked Data repository for EU legal documents (RDF/SPARQL). *(Open, API)*
 - [MultiEURLEX - A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer](https://arxiv.org/abs/2109.00904)
 - [Mining Legal Arguments in Court Decisions - Data and software (European Court of Human Rights (ECHR))](https://github.com/trusthlt/mining-legal-arguments)
+- [EU compliance deadlines (Autoregix)](https://github.com/InfinityTech-Enterprise-Solutions/autoregix-open-data) — About 160 dated application and transition deadlines under EU business law, each with CELEX number and EUR-Lex link, in English and German (CSV, JSON, iCalendar). *(Open, CC BY 4.0)*
 
 *(Tip: The EU **N‑Lex** portal links to the official law databases of all EU/EEA countries.)*
 
