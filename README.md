@@ -271,6 +271,7 @@ Most resources are openly available.
 - [LexGLUE: A Benchmark Dataset for Legal Language Understanding in English](https://github.com/coastalcph/lex-glue)
 - [PileOfLaw](https://github.com/Breakend/PileOfLaw)
 - [Lebanese Legislation](https://huggingface.co/datasets/taktekhq/lebanese-legislation) - Lebanese laws, decrees, court rulings and Official Gazette in Arabic and French, with an amendment and citation graph (Parquet, updated nightly).
+- [Age Verification Laws for Adult Websites](https://github.com/pornsleuth/age-verification-laws) - Age-verification laws for adult websites in all 50 US states and 62 countries: status, law name, effective date and source link (CSV, CC BY 4.0).
 
 ## Tools
 
